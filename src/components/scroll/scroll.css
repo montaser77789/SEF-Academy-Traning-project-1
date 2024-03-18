@@ -1,0 +1,30 @@
+:root {
+    --primary:#BF9B30;
+    --Green:#34A853;
+    --Red:#1A1919;
+    --Grey:#D0D0D0;
+    --Black:#000000;
+    --white:#fff;
+    --overlay-bage :#1a1919f1;
+    --bg-cards:#00000040;
+    --hover:#dbb338;
+    --background-input: #ffffff1e ;
+  }
+  .button-scroll{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    border: 1px solid var(--primary);
+    border-radius: 50%;
+    bottom: 70px;
+    right: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    color: var(--primary);
+  }
+.scroll-icon{
+    font-size: 40px;
+    z-index: 2;
+} 

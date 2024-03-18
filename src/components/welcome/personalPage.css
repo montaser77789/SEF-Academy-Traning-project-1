@@ -1,0 +1,46 @@
+.course{
+    background-color: rgba(0, 0, 0, 0.336);
+    border-radius: 1rem;
+  }
+  .done{
+    background-color: rgba(104, 104, 104, 0.76);
+  }
+  .course_coler{
+    color: rgb(192, 156, 48);
+  }
+  .course_button , .color_orange{
+    background-color: rgb(192, 156, 48);
+  }
+  .edit{
+    color: rgb(192, 156, 48);
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  /* //////////////// */
+  .sec3_img{
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+  
+  }
+  .parent_top_courses{
+    position: relative;
+  }
+  .left_courses{
+    position: absolute;
+    left: 20px;
+    bottom: -10px;
+    font-size: 20px;
+  }
+  .right_courses{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  .img_rel{
+    position: relative;
+  }
+  .left_courses2{
+    font-size: 30px;
+  }
